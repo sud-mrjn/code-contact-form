@@ -1,1 +1,1 @@
-Contact form, utilising the Bootstrap, in combination with AJAX and PHP.
+Contact form Assignment with validation in PHP.
